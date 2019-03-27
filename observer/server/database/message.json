@@ -1,0 +1,15 @@
+[
+    {
+        "content": "Observer design pattern is like podcast",
+        "username": "Jack",
+        "created_at": "03/15/2019 7:29:54 AM"
+    }, {
+        "content": "Strive for loosely coupled designs between objects that interact.",
+        "username": "Sihui",
+        "created_at": "01/19/2019 8:07:01 PM"
+    }, {
+        "content": "WebSocket can make the benifit manifest!",
+        "username": "Steve",
+        "created_at": "01/01/2019 1:15:55 PM"
+    }
+]
